@@ -1,0 +1,45 @@
+html , body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: aqua;
+}
+.header {
+    text-align: center;
+    background-color: yellow;
+    font-size: 30px;
+    text-shadow: 5px 5px 10px black;
+}
+
+img{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+        background-color: rgb(241, 18, 55);
+}
+ #caption {
+    justify-content: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 17px;
+   
+}
+ #v-1 {
+    font-size: 35px;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+ }
+
+  div #tribute-data {
+    padding: 25px 25px;
+    font-size: 20px;
+    background-color: rgb(8, 237, 160);
+    box-shadow: 15px 15px 15px rgb(245, 188, 179);
+    box-sizing: border-box;
+    margin: 11px;
+    margin-top: 20px;
+
+ }
+
